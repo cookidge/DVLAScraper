@@ -21,7 +21,7 @@ namespace DVLAScraper
                ConfirmVehicle Request
             ***************************/
 
-            // Variables to store returned information
+            // Variables to store returned informatio
             string vehicleMake, vehicleColour;
             string rxPattern = "value=\"\\w*\"";
    
